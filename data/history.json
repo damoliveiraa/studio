@@ -1,0 +1,491 @@
+[
+  {
+    "success": true,
+    "message": "Sync complete. Total of 11 new orders synced across all clients.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 3
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 8
+      }
+    ],
+    "timestamp": "2025-10-30T20:49:16.205Z"
+  },
+  {
+    "success": true,
+    "message": "Nenhum cliente configurado.",
+    "results": [],
+    "timestamp": "2025-10-30T17:55:15.570Z"
+  },
+  {
+    "success": true,
+    "message": "Nenhum cliente configurado.",
+    "results": [],
+    "timestamp": "2025-10-30T17:52:06.993Z"
+  },
+  {
+    "success": true,
+    "message": "Nenhum cliente configurado.",
+    "results": [],
+    "timestamp": "2025-10-30T17:51:15.526Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 9 new orders synced across all clients.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 9
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-30T16:28:40.819Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced across all clients.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-30T15:03:43.394Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced across all clients.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-30T15:00:45.376Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 100 new orders written.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 50
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 50
+      }
+    ],
+    "timestamp": "2025-10-30T14:33:32.538Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 100 new orders written.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 50
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 50
+      }
+    ],
+    "timestamp": "2025-10-30T13:46:49.085Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 100 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 50
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 50
+      }
+    ],
+    "timestamp": "2025-10-30T13:33:31.514Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T18:49:38.650Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T18:34:38.044Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 2 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 1
+      }
+    ],
+    "timestamp": "2025-10-28T18:19:38.856Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T18:03:39.766Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 6 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 6
+      }
+    ],
+    "timestamp": "2025-10-28T17:48:39.631Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 5 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 5
+      }
+    ],
+    "timestamp": "2025-10-28T17:33:40.649Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 13 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 12
+      }
+    ],
+    "timestamp": "2025-10-28T17:18:39.950Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 7 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 2
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 5
+      }
+    ],
+    "timestamp": "2025-10-28T17:03:40.097Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 2 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 2
+      }
+    ],
+    "timestamp": "2025-10-28T16:48:39.714Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 6 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 2
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 4
+      }
+    ],
+    "timestamp": "2025-10-28T16:33:38.784Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T16:02:26.461Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 1
+      }
+    ],
+    "timestamp": "2025-10-28T15:47:26.430Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T15:32:27.045Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T15:17:27.906Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T15:02:22.315Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 1 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 1
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T15:02:06.788Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T14:52:54.379Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T14:52:42.394Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 0 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 0
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 0
+      }
+    ],
+    "timestamp": "2025-10-28T14:49:38.024Z"
+  },
+  {
+    "success": true,
+    "message": "Sync complete. Total of 100 new orders synced.",
+    "results": [
+      {
+        "clientName": "Montecarlo",
+        "status": "success",
+        "newOrdersAdded": 50
+      },
+      {
+        "clientName": "Fossil",
+        "status": "success",
+        "newOrdersAdded": 50
+      }
+    ],
+    "timestamp": "2025-10-28T14:49:18.596Z"
+  },
+  {
+    "success": false,
+    "message": "ID da Planilha Google (GOOGLE_SHEET_ID) não configurado nas variáveis de ambiente.",
+    "results": [],
+    "timestamp": "2025-10-27T20:21:02.502Z"
+  },
+  {
+    "success": false,
+    "message": "ID da Planilha Google (GOOGLE_SHEET_ID) não configurado nas variáveis de ambiente.",
+    "results": [],
+    "timestamp": "2025-10-27T20:20:58.426Z"
+  }
+]
